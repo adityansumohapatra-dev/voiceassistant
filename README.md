@@ -1,6 +1,6 @@
 
 # Voice Assistant
-
+Work is still going on
 A Python-based voice assistant project.
 
 ## Features
@@ -14,3 +14,5 @@ A Python-based voice assistant project.
 ## How to run
 ```bash
 python main.py
+
+
